@@ -1,0 +1,10 @@
+C:\Users\Metin\Desktop\OopProje2\OopProje2\bin\Debug\OopProje2.exe.config
+C:\Users\Metin\Desktop\OopProje2\OopProje2\bin\Debug\OopProje2.exe
+C:\Users\Metin\Desktop\OopProje2\OopProje2\bin\Debug\OopProje2.pdb
+C:\Users\Metin\Desktop\OopProje2\OopProje2\obj\Debug\OopProje2.csproj.AssemblyReference.cache
+C:\Users\Metin\Desktop\OopProje2\OopProje2\obj\Debug\OopProje2.Properties.Resources.resources
+C:\Users\Metin\Desktop\OopProje2\OopProje2\obj\Debug\OopProje2.csproj.GenerateResource.cache
+C:\Users\Metin\Desktop\OopProje2\OopProje2\obj\Debug\OopProje2.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\OopProje2\OopProje2\obj\Debug\OopProje2.exe
+C:\Users\Metin\Desktop\OopProje2\OopProje2\obj\Debug\OopProje2.pdb
+C:\Users\Metin\Desktop\OopProje2\OopProje2\obj\Debug\OopProje2.Form1.resources
